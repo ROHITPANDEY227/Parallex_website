@@ -6,10 +6,9 @@ The website creates a depth illusion by moving background and foreground element
 ---
 
 ## 🚀 Live Demo
-[Click here to view the website](https://rohitrpandey227.github.io/Parallex_website/)
-*(This link will work once GitHub Pages is enabled — see instructions below.)*
 
----
+[Click here to view the website](https://rohitpandey227.github.io/Parallex_website/)
+
 
 ## ✨ Features
 - Pure CSS-based parallax effect (no external JavaScript libraries)
