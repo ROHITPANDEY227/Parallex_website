@@ -27,4 +27,10 @@ The website creates a depth illusion by moving background and foreground element
 ---
 
 ## 📂 Folder Structure
+Parallex_website/
+│── index.html        # Main HTML file
+│── style.css         # Styles for the website
+│── images/           # Folder containing background images for parallax effect
+└── README.md  
+
 
